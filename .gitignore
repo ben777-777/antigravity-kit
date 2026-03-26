@@ -4,3 +4,8 @@ node_modules/
 antigravity-doc
 tests
 others
+
+# Digital Twin — personal coding profile (do not commit)
+.agent/skills/digital-twin/TWIN_PROFILE.md
+.agent/skills/digital-twin/exports/
+.agent/skills/digital-twin/interview/twin-interview-filled.md

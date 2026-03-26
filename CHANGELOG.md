@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **New Skills**:
+    - `digital-twin` - AI coding persona cloning (interview → profile → exports for Claude/Cursor/Gemini)
+- **Developer Experience**:
+    - Added `CLAUDE.md` for Claude Code onboarding context
+
+### Changed
+
+- **Documentation**: Updated skill counts across README, ARCHITECTURE.md (36 → 38)
+- **`.gitignore`**: Excluded personal twin profile data (TWIN_PROFILE.md, exports/, filled interview)
 
 ## [2.0.2] - 2026-02-04
 - **New Skills**:
